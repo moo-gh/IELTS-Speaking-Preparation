@@ -44,3 +44,4 @@ In each subject, there are some questions and answers which you can use for gett
 - [**039 Daily Routine**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/039-daily-routine.md)
 - [**040 Hometown**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/040-hometown.md)
 - [**041 Accommodation**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/041-accommodation.md)
+- [**042 Birthdays**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/042-birthdays.md)
