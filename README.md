@@ -45,3 +45,4 @@ In each subject, there are some questions and answers which you can use for gett
 - [**040 Hometown**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/040-hometown.md)
 - [**041 Accommodation**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/041-accommodation.md)
 - [**042 Birthdays**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/042-birthdays.md)
+- [**043 Advertising**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/043-advertising.md)
