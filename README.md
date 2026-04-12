@@ -47,3 +47,4 @@ In each subject, there are some questions and answers which you can use for gett
 - [**042 Birthdays**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/042-birthdays.md)
 - [**043 Advertising**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/043-advertising.md)
 - [**044 Clothes**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/044-clothes.md)
+- [**045 Cooking**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/045-cooking.md)
