@@ -51,3 +51,4 @@ In each subject, there are some questions and answers which you can use for gett
 - [**046 Walking**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/046-walking.md)
 - [**047 Singing**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/047-singing.md)
 - [**048 Swimming**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/048-swimming.md)
+- [**049 Cycling**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/049-cycling.md)
