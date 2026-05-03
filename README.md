@@ -3,7 +3,7 @@ In each subject, there are some questions and answers which you can use for gett
 
 
 #### List of Contents:
-- [**001 Furniture**](https://github.com/ghorbani-mohammad/ielts-speaking-part2/blob/main/001-furniture.md)
+- [**001 Furniture**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/001-furniture.md)
 - [**002 Shopping**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/002-shopping.md)
 - [**003 Picnic**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/003-picnic.md)
 - [**004 Recycling**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/004-recycling.md)
@@ -30,7 +30,6 @@ In each subject, there are some questions and answers which you can use for gett
 - [**025 Science**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/025-science.md)
 - [**026 Reading and Books**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/026-reading-%26-books.md)
 - [**027 News**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/027-news.md)
-- [**028 Concentration**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/028-concentration.md)
 - [**029 Relationship**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/029-relationship.md)
 - [**030 Technology**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/030-technology.md)
 - [**031 Environment**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/031-environment.md)
@@ -53,3 +52,5 @@ In each subject, there are some questions and answers which you can use for gett
 - [**048 Swimming**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/048-swimming.md)
 - [**049 Cycling**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/049-cycling.md)
 - [**050 Handwriting**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/050-handwriting.md)
+- [**051 Mirrors**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/051-mirrors.md)
+- [**052 Dreams**](https://github.com/ghorbani-mohammad/ielts-speaking-preparation/blob/main/052-dreams.md)
